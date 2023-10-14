@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Blogging Like a Hacker
+categories: [notimportant, useless]
+tags: [notimportant]
+published: true
 ---
 
 Have you ever wondered what it would be like to be a superhero?
