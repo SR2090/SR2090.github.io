@@ -2,8 +2,8 @@
 layout: post
 title: "Learning DSA"
 date: 2024-07-30 00:18:00 +0530
-categories: streaming
-tags: goxlr streaming twitch hardware
+categories: dsa
+tags: dsa learning advice
 ---
 
 ## Learning Tips
